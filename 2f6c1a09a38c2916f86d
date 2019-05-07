@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js  ie lt-ie9 lt-ie8 lt-ie7 gray-background fg-item-page"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js  ie lt-ie9 lt-ie8 gray-background fg-item-page"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js  ie lt-ie9 gray-background fg-item-page"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js  ie ie9 gray-background fg-item-page"> <![endif]-->
+<!--[if IE  ]>         <html class="no-js  ie gray-background fg-item-page"> <![endif]-->
+<!--[if IE]><!--> <html class="no-js  gray-background fg-item-page" lang="en"> <!--<![endif]-->
+  <head>
+    <meta charset="UTF-8">
+    <title>
+      
+        
+        figshare
+  
+      
+    </title>
+    <meta name="referrer" content="origin"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="csrf_token" content="a2023337-10af-4f84-b742-01e951c47215" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/favicon/mstile-310x310.png" />
+    
+    
+        <meta name="robots" content="noindex" />
+    
+
+    
+      <link rel="stylesheet" type="text/css" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/styles/main.css" />
+    
+    <link rel="stylesheet" type="text/css" href="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public.css" />
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+  </head>
+  <body>
+    <div class="translate-reset"></div>
+    <div id="global-messenger"></div>
+    <div id="global-overlays"></div>
+    <div id="ck-banner"></div>
+    <div id="main-container">
+    
+      
+
+
+<div id="main-header">
+    <header class="domain-header" role="banner">
+        <div class="dh-wrapper">
+            <div class="dh-column dh-left">
+                <a class="dh-home-button" role="button" href=https://figshare.com/>
+                    <div class="inst-logo-component il-default">
+                        
+                            <img alt="figshare" class="il-image rd-hide-under-640" src="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/full-logo.png" title="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/full-logo.png">
+                            <img alt="figshare" class="il-image rd-show-under-640" src="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/logo-only.png" title="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/full-logo.png">
+                        
+                    </div>
+                </a>
+            </div>
+            <div class="dh-column dh-middle rd-hide-under-640">
+                
+                    <a class="normal-link dh-button dh-browse" href="https://figshare.com/browse" rel="noopener noreferrer">
+                        Browse
+                    </a>
+                
+                
+                    <form class="search-form dh-search-form" action="https://figshare.com/search">
+                        <div class="text-input-component-wrapper sf-input">
+                            <input type="search" name="q" class="text-input-component" placeholder="Search on figshare..." value="" />
+                        </div>
+                        <button class="sf-submit" type="submit" />
+                    </form>
+                
+            </div>
+            <div class="dh-column dh-right" />
+        </div>
+    </header>
+</div>
+    
+
+    
+
+    
+<div id="app-root" data-page-type="public" data-app="item"></div>
+
+    </div>
+
+    
+       <footer role="contentinfo">
+    <div class="f-sitemap">
+      <div class="center-layout">
+        
+          <ul class="fs-links">
+            <li><a href="https://figshare.com/about">About</a></li>
+            <li><a href="https://figshare.com/features">Features</a></li>
+            <li><a href="https://figshare.com/tools">Tools</a></li>
+            <li><a href="https://figshare.com/blog">Blog</a></li>
+            <li><a href="https://figshare.com/ambassadors">Ambassadors</a></li>
+            <li><a href="https://figshare.com/contact">Contact</a></li>
+            <li><a target="_blank" href="https://knowledge.figshare.com">FAQs</a></li>
+            <li><a href="https://figshare.com/privacy">Privacy Policy</a></li>
+            <li><a href="https://figshare.com/cookie-policy">Cookie Policy</a></li>
+            <li><a href="https://figshare.com/terms">T&amp;Cs</a></li>
+            <li class="last">
+              <a href="/sitemap/siteindex.xml">Sitemap</a>
+            </li>
+          </ul>
+          <ul class="fs-social">
+            <li><a class="fss-facebook hide-text" target="_blank" href="//facebook.com/FigShare">facebook page</a></li>
+            <li><a class="fss-twitter hide-text" target="_blank" href="//twitter.com/figshare">twitter page</a></li>
+            <li><a class="fss-google hide-text" target="_blank" href="//plus.google.com/107997370406416536977">google plus page</a></li>
+            <li><a class="fss-vimeo hide-text" target="_blank" href="//vimeo.com/figshare">vimeo page</a></li>
+          </ul>
+        
+      </div>
+    </div>
+    <div class="f-informations">
+      <div class="center-layout">
+        <div class="fi-figshare">fig<strong>share</strong>. credit for <strong>all</strong> your research.</div>
+        
+
+        
+        
+          <ul class="fi-partners">
+            <li><a rel="noopener noreferrer" class="fip-digital hide-text" target="_blank"  href="//www.digital-science.com/">digital science page</a></li>
+            <li><a rel="noopener noreferrer" class="fip-chronopolis hide-text" target="_blank"  href="https://libraries.ucsd.edu/chronopolis/">chronopolis page</a></li>
+            <li><a rel="noopener noreferrer" class="fip-datacite hide-text" target="_blank"  href="//www.datacite.org/">datacite page</a></li>
+            <li><a rel="noopener noreferrer" class="fip-cope hide-text" target="_blank" href="http://publicationethics.org/">publication ethics page</a></li>
+            <li><a rel="noopener noreferrer" class="fip-dataciteindex hide-text" target="_blank" href="http://wokinfo.com/products_tools/multidisciplinary/dci/">data citation index</a></li>
+            <li><a rel="noopener noreferrer" class="fip-open hide-text" target="_blank" href="//creativecommons.org/licenses/by/3.0/">creative commons page</a></li>
+          </ul>
+        
+        </div>
+    </div>
+  </footer>
+    
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-20427479-1', 'figshare.com');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+      
+    </script>
+    
+<script id="app-data" type="text/json">
+    {
+      "article": {"files": [{"status": "available", "viewerType": "image", "virusScanInfo": {"message": "No virus found", "error": false, "virus_found": false, "scan_done": true}, "md5": "a4e720d5eeeeaa6e30d2073922168736", "id": 14925542, "size": 153173, "downloadUrl": "https://ndownloader.figshare.com/files/14925542", "isLinkOnly": false, "thumb": "https://ndownloader.figshare.com/files/14925542/preview/14925542/thumb.png", "coversheetGenerated": false, "coversheetEnabled": false, "name": "dfd.png", "previewMeta": {"key": "14925542/preview.jpg", "baseUrl": "https://ndownloader.figshare.com/files/14925542/preview", "originalHeight": 1049, "height": 1049, "width": 800, "version": "1.0.0", "originalWidth": 800}, "suppliedMd5": "a4e720d5eeeeaa6e30d2073922168736", "previewState": "preview_available", "previewLocation": "https://ndownloader.figshare.com/files/14925542/preview"}], "filesCount": 1, "confidentialReason": "", "virusScanInfo": {"message": "File not scanned yet", "error": false, "virus_found": false, "scan_done": false}, "embargoType": 2, "isMetadataRecord": false, "id": 8011673, "size": 153173, "funding": [], "thumb": "", "title": "Configurations", "tags": ["Total Body", "PET", "GATE"], "version": 0, "categories": [{"urlName": "Nuclear_Medicine", "parentId": 142, "id": 313, "name": "Nuclear Medicine"}], "customFields": [], "isConfidential": false, "metadataReason": "", "status": "private", "handle": "", "description": "Three TBPET tested scanner configurations<br>", "publishedDate": null, "embargoDate": null, "isPublic": false, "modifiedDate": "2019-04-18T17:28:48Z", "isEmbargoed": false, "createdDate": "2019-04-18T17:24:16Z", "hasLinkedFile": false, "isActive": true, "doi": "", "license": {"url": "https://creativecommons.org/licenses/by/4.0/", "logo": "https://s3-eu-west-1.amazonaws.com/staticfigassets/images/CC-BY.png", "name": "CC BY 4.0", "value": 1}, "isEmbargoedPublished": false, "definedType": 3, "embargoReason": "", "downloadUrl": "https://ndownloader.figshare.com/articles/8011673", "references": []},
+      "itemTypes": [{"description": "Figures are generally photos, graphs and static images that would be represented in traditional pdf publications.", "type": "figure", "id": 1, "articleIds": [928563], "formats": "JPG, PNG, SVG, TIFF, EPS, PDF, etc."}, {"description": "Media is any form of research output that is recorded and played. This is most commonly video, but can be audio or 3D representations.", "type": "media", "id": 2, "articleIds": [763232], "formats": "MOV, MP4, AVI, FLV, MP3, etc."}, {"description": "Datasets usually provide raw data for\n analysis. This raw data often comes in spreadsheet form, but can be any collection of data, on which analysis can be performed.", "type": "dataset", "id": 3, "articleIds": [1186832], "formats": "CSV, XLS, XLSX, SAV, etc."}, {"description": "Filesets offer a solution to those wishing to group multiple files as a single citable object. These are often experiments or workflows.", "type": "fileset", "id": 4, "articleIds": [1043987], "formats": "All of the above and more."}, {"description": "Poster sessions are particularly prominent at academic conferences. Posters are \nusually one frame of a powerpoint (or similar) presentation and are represented at full resolution to make them zoomable.", "type": "poster", "id": 5, "articleIds": [1286826], "formats": "JPG, PPT, PPTX, PPTM, PDF, etc."}, {"description": "Papers are not theses or preprints. They are generally copies of papers that are being self-archived with the goal of Green Open Access. They can also be working papers, whitepapers, grant applications, or research notes.", "type": "paper", "id": 6, "articleIds": [1613292], "formats": "DOC, DOCX, ODT, RTF, TXT, PDF, etc."}, {"description": "Preprints are manuscripts made publicly available before they have been submitted for formal peer review and publication. They might contain new research findings or data. Preprints can be a draft or final version of an authors' research but must not have been accepted for publication at the time of submission.", "type": "preprint", "id": 12, "articleIds": [928171], "formats": "DOC, DOCX, ODT, RTF, TXT, PDF, etc."}, {"description": "Academic presentations can be uploaded in their original slide format. Presentations are usually represented as slide decks. Videos of presentations can be uploaded as media.", "type": "presentation", "id": 7, "articleIds": [1169928], "formats": "PPTX, PPTM, PPT, PDF, XPS, etc."}, {"description": "In order to distinguish essays and pre-prints from academic theses, we have a separate category. These are often much longer text based documents than a paper.", "type": "thesis", "id": 8, "articleIds": [1598221], "formats": "DOC, DOCX, ODT, RTF, TXT, PDF, etc."}, {"description": "Code as a\n research output can either be uploaded directly from your computer or through the code management system GitHub. Versioning of code repositories is supported.", "type": "code", "id": 9, "articleIds": [1031580], "formats": "ZIP"}, {"description": "Books are generally long-form documents, a specialist work of writing that contains multiple chapters or a detailed written study.", "type": "book", "id": 13, "articleIds": [6865229], "formats": "EPUB, EPUB3"}],
+      "token": "2f6c1a09a38c2916f86d",
+      "isShared": true
+    }
+</script>
+<script type="text/javascript" src="//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/index.js"></script>
+
+    
+      <script id="domain-data" type="text/json">
+      {"domain": "figshare.com", "domainAccountId": null, "branding": {"mobileLogo": "//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/logo-only.png", "logo": "//web-static.figshare.com/assets/0f2bb60f973b98447ed1a5df3951b48e4ff06f25/public/global/images/full-logo.png", "titlePostfix": "- credit for all your research", "name": "figshare"}, "customizations": null, "actions": {"browse": {"url": "https://figshare.com/browse", "name": "Browse"}, "home": {"url": "https://figshare.com/", "name": "figshare"}, "search": {"url": "https://figshare.com/search", "name": "Search on figshare..."}, "register": {"url": "https://figshare.com/account/register", "name": "Sign up"}, "login": {"url": "https://figshare.com/account/login", "name": "Log in"}}, "baseDomain": "figshare.com", "isIsolatedDomain": false, "supportEmail": "support@figshare.com"}
+      </script>
+    
+  </body>
+</html>
