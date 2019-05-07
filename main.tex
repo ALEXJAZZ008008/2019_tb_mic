@@ -4,7 +4,7 @@
 \usepackage[activate={true,nocompatibility},final,tracking=true,kerning=true,spacing=true,factor=1100,stretch=10,shrink=10]{microtype}
 
 % make it fit on two pages
-\linespread{0.95}
+\linespread{0.97}
 
 \usepackage{amsmath}
 \usepackage{bm}
@@ -49,11 +49,11 @@
     
 \IEEEpeerreviewmaketitle
 \begin{abstract}
-Total-Body PET (TB-PET), due to the high sensitivity, provides the means for simultaneous imaging of distant organs, fast kinetics, use of short-lived isotopes and paediatric applications. Recently the first TB-PET scanner was presented and the first results were impressive. However, the cost of a TB-PET scanner is prohibiting for many clinics and research institutions. Therefore we propose a flexible detector configuration which will increase the axial field of view and keep the total cost low. The axial ring splitting separates the full rings into rings with only the even numbered detectors and the odd. In this investigation three configurations were considered (a) half length full rings (b) double length - split rings (c) double length - full rings. It was shown that configuration C demonstrated the highest prompt count rate, as expected. Configuration A was marginally better than configuration C. The same trends were observed in terms of noise equivalent count rate. Images reconstructed with OSEM demonstrated the improved image quality and noise properties of the long scanner configuration over classic PET. 
+Total-Body PET (TB-PET), due to high sensitivity, provides the means for simultaneous imaging of distant organs, fast kinetics, use of short-lived isotopes and paediatric applications. Recently the first TB-PET scanner was presented and the first results were impressive. However, the cost of a TB-PET scanner is prohibiting for many clinics and research institutions. Therefore we propose a flexible detector configuration which will increase the axial field of view and keep the total cost low. Axial ring splitting separates the full rings into rings with only the even numbered detectors and the odd. In this investigation three configurations were considered (a) half length full rings (b) double length - split rings (c) double length - full rings. It was shown that configuration C demonstrated the highest prompt count rate, as expected. Configuration A was marginally better than configuration C. The same trends were observed in terms of noise equivalent count rate. Images reconstructed with OSEM demonstrated the improved image quality and noise properties of the long scanner configuration over classic PET. 
 \end{abstract}
     
 \begin{IEEEkeywords}
-    Total-Body~PET, Monte~Carlo, Image~reconstruction, Noise~Equivalent~Count~Rate, NECR
+    Total-Body~PET, Monte~Carlo, Image~reconstruction, Noise~Equivalent~Count~Rate
 \end{IEEEkeywords}
 
 \section{Introduction}
@@ -67,13 +67,13 @@ In particular we investigated the possibility of a chess-like arrangement of det
 \section{Materials and Methods}
 The GATE~\cite{Jan2004} Monte Carlo toolkit was used for the simulation process. STIR~\cite{Thielemans2012P} was used for reconstruction and the processing of sinograms.
 
-Three configurations were considered. A long axial FOV scanner with an axial length of $626$mm), a split ring configuration, where interchangeably rings lack either the odd or the even detectors with an axial length of $1252$mm and finally a standard TB-PET scanner with full rings axial length $1252$mm. The configurations were named: \texttt{Config.A}, \texttt{Config.B} and \texttt{Config.C}, respectively. The three configurations are illustrated in Fig~\ref{fig:configs}. 
+Three configurations were considered. A long axial FOV scanner with an axial length of $626$mm, a split ring configuration, where interchangeably rings lack either the odd or the even detectors, with an axial length of $1252$mm and finally a standard TB-PET scanner with full rings axial length $1252$mm. The configurations were named: \texttt{Config.A}, \texttt{Config.B} and \texttt{Config.C}, respectively. The three configurations are illustrated in Fig~\ref{fig:configs}. 
 
-Briefly, the system model is composed by blocks of $8 \times 8$ LYSO crystals with size $4 \times 4 \times 20$mm$^3$.  Each module either had one block (\texttt{Config.A}), a combination of block and gap (\texttt{Config.B}) or two blocks (\texttt{Config.B}).
+Briefly, the system model is composed of blocks of $8 \times 8$ LYSO crystals with size $4 \times 4 \times 20$mm$^3$.  Each module either had one block (\texttt{Config.A}), a combination of block and gap (\texttt{Config.B}) or two blocks (\texttt{Config.B}).
 
-The digitiser was taken from a validated Philips Vereos model~\cite{Rausch2019PerformanceStandard} due to the very good timing properties. 
+The digitiser was taken from a validated Philips Vereos model~\cite{Rausch2019PerformanceStandard} due to its high resoluation timing properties. 
 
-Because the NEMA NU-2012~\cite{NationalElectricalManufacturersAssociation2012Performance2-2012} protocol is not optimised for such long scanners adaptations were made to the protocol. In particular the count losses phantom, which in NEMA has length of $700$mm, was extended to $1500$mm, in order to provide a fair comparison between the long scanners and highlight the benefits of the longer axial FOV. In addition, the XCAT digital anthropomorphic phantom~\cite{Segars20104DResearch} was also simulated.
+Because the NEMA NU-2012~\cite{NationalElectricalManufacturersAssociation2012Performance2-2012} protocol is not optimised for such long scanners adaptations were made to the protocol. In particular the count losses phantom, which in NEMA has a length of $700$mm, was extended to $1500$mm, in order to provide a fair comparison between the long scanners and highlight the benefits of the longer axial FOV. In addition, the XCAT digital anthropomorphic phantom~\cite{Segars20104DResearch} was also simulated.
 
 \begin{figure}
     \centering
@@ -85,7 +85,7 @@ Because the NEMA NU-2012~\cite{NationalElectricalManufacturersAssociation2012Per
 \section{Results}
 As can be seen in Fig.~\ref{fig:prompts}, in terms of detected prompts (trues + scattered + random) \texttt{Config.C} is far more efficient. \texttt{Config.A} is slightly better than \texttt{Config.B}, indicating that the axial expansion of the scanner does not compensate entirely for the introduction of the gaps. 
 
-As illustrated in Fig.~\ref{fig:necr} in terms of Noise-Equivalent-Count-Rate (NECR)(kcps) \texttt{Config.C} is superior to the rest of configurations. However, its peak is located in one od the lowest activity concentrations. Comparison between \texttt{Config.B} and \texttt{Config.A} shows that the NECR of \texttt{Config.A} is better, something that was not hinted at by the number of detected prompts. This shows that the true events lossed, due to the gaps is proportionally more significant than for the scattered and random events, which are less affected. 
+As illustrated in Fig.~\ref{fig:necr} in terms of Noise-Equivalent-Count-Rate(kcps) (NECR) \texttt{Config.C} is superior to the rest of configurations. However, its peak is located in one of the lower activity concentrations. Comparison between \texttt{Config.B} and \texttt{Config.A} shows that the NECR of \texttt{Config.A} is better, something that was not hinted at by the number of detected prompts. This shows that the true events lost, due to the gaps is proportionally more significant than for the scattered and random events, which are less affected. 
 
 Furthermore, the NECR of the PET scanner with a classic axial FOV of $240$mm, was included in order to highlight the benefits in sensitivity of the longer configurations. Moreover, this is shown in Fig.~\ref{fig:recs} where images, reconstructed using OSEM with $60$ iterations and $12$ subsets, from the short scanner and from \texttt{Config.A} are demonstrated. The acquisition was that of a normal $^{18}$ F-FDG biodistribution of 10 seconds. In addition, to the wider FOV the longer scanner offers substantially better noise properties. 
 
@@ -104,7 +104,7 @@ Furthermore, the NECR of the PET scanner with a classic axial FOV of $240$mm, wa
 \end{figure}
 
 \section{Conclusion}
-Alternative, cost efficient design for the TB-PET scanner using a chess-like pattern of detectors were evaluated, in terms of count losses, and compared to a compact configuration having the same number of detectors and a configuration with the same axial length and double the detectors. It was found that although the impact on the counting ability of the scanner is not significant the NECR is reduced by $25\%$. This hints that the detected true events suffer greater losses than the random and scattered. 
+An alternative cost efficient design for a TB-PET scanner using a chess-like pattern of detectors was evaluated, in terms of count losses. This was compared to a compact configuration having the same number of detectors and a configuration with the same axial length and double the detectors. It was found that although the impact on the counting ability of the scanner is not significant the NECR is reduced by $25\%$. This hints that the detected true events suffer greater losses than the random and scattered. 
 
 Currently our ability to reconstruct images of long PET scanner maxes out at $700$mm. In the future we plan to further extend that using more efficient memory management. 
 
